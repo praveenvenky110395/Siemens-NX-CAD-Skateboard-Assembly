@@ -67,7 +67,7 @@ The CAD model was prepared as a basis for possible downstream CAE work. Potentia
 
 The project presentation is also included in this repository and documents the complete Siemens NX workflow.
 
-📊 [View Project Presentation](Skateboard_Projektarbeit_Praveen.pptx)
+📊 [View Project Presentation](Skateboard_Projektarbeit_Praveen.pdf)
 
 ## Relevance to CAE engineering
 
