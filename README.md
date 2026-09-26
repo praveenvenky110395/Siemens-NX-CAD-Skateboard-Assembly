@@ -53,9 +53,9 @@ The assembly was also cloned to create portable project references without broke
 
 ## Engineering drawings & BOM
 
-The repository includes a compiled PDF with the project's Siemens NX engineering drawings and assembly documentation, including individual part drawings, axle and wheel subassembly drawings, the main assembly drawing, exploded assembly and BOM information.
+The repository includes a compiled PDF with the project's Siemens NX engineering drawings and assembly documentation, grouped into **Einzelteil**, **Baugruppe** and **Explodedview** sections.
 
-📄 [View Siemens NX CAD Drawings & Assembly Documentation](Siemens_NX_CAD_Drawings_and_Assembly_Documentation.pdf)
+📄 [View Siemens NX CAD Documentation – Einzelteil, Baugruppe & Explodedview](Alfa_Siemens_NX_CAD_Dokumentation_Gruppiert.pdf)
 
 ## FEM / CAE outlook
 
