@@ -51,6 +51,12 @@ A full assembly collision check was performed. No unwanted penetrations were fou
 
 The assembly was also cloned to create portable project references without broken links.
 
+## Engineering drawings & BOM
+
+The repository includes a compiled PDF with the project's Siemens NX engineering drawings and assembly documentation, including individual part drawings, axle and wheel subassembly drawings, the main assembly drawing, exploded assembly and BOM information.
+
+📄 [View Siemens NX CAD Drawings & Assembly Documentation](Siemens_NX_CAD_Drawings_and_Assembly_Documentation.pdf)
+
 ## FEM / CAE outlook
 
 The CAD model was prepared as a basis for possible downstream CAE work. Potential studies include bending stiffness, stresses in the axle/fixture and deformation of the rubber bushing.
@@ -59,7 +65,9 @@ The CAD model was prepared as a basis for possible downstream CAE work. Potentia
 
 ## Project documentation
 
-See the project presentation in this repository for screenshots and the complete workflow.
+The project presentation is also included in this repository and documents the complete Siemens NX workflow.
+
+📊 [View Project Presentation](Skateboard_Projektarbeit_Praveen.pptx)
 
 ## Relevance to CAE engineering
 
