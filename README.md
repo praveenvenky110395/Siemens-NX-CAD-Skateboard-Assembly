@@ -10,6 +10,20 @@ A complete CAD construction and assembly project developed in Siemens NX 2412.
 
 The project covers the workflow from individual part modelling to subassemblies, complete assembly, assembly sequencing, engineering drawings, BOM and geometric quality checks.
 
+## Visual overview
+
+### Complete assembly
+
+![Complete skateboard assembly](Complete_Assembly1.png)
+
+### Assembly detail
+
+![Skateboard CAD assembly](Complete_Assembly.png)
+
+### Exploded assembly
+
+![Exploded skateboard assembly](Explodedview%20Skateboard.png)
+
 ## What this project demonstrates
 
 - Part Design and feature-based modelling
